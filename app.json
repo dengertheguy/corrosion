@@ -1,5 +1,6 @@
 {
-	"name": "Corrosion",
-	"description": "Successor to Alloy Proxy.",
-	"repository": "https://github.com/dengertheguy/corrosion"
+    "name": "Denger Corrosion",
+    "description": "Corrosion Proxy by Denger",
+    "repository": "dengertheguy/corrosion",
+    "logo":"https://raw.githubusercontent.com/c0d3rb0y/Milknami/main/public/img/cookie.png"
 }
